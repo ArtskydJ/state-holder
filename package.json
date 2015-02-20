@@ -1,0 +1,28 @@
+{
+  "name": "state-holder",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "author": {
+    "name": "ArtskydJ",
+    "email": "josephdykstra@gmail.com"
+  },
+  "description": "Basic getter and setter for arbitrary data",
+  "keywords": [
+    "get",
+    "getter",
+    "set",
+    "setter",
+    "state"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtskydJ/state-holder"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "dependencies": {}
+}
