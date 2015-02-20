@@ -1,6 +1,8 @@
 state-holder
 ============
 
+[![Build Status](https://travis-ci.org/ArtskydJ/state-holder.svg)](https://travis-ci.org/ArtskydJ/state-holder)
+
 Basic getter and setter for arbitrary data
 
 # source code
