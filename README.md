@@ -46,7 +46,7 @@ var StateHolder = require('state-holder')
 
 Can be called with or without `new`.
 
-The state is be set to the value of `thing`. If `thing` is omitted, the state is set to `undefined`.
+The state is set to the value of `thing`. If `thing` is omitted, the state is set to `undefined`.
 
 ## var thing = state.get()
 
@@ -54,7 +54,7 @@ Returns the state.
 
 ## state.set( [thing] )
 
-The state is be set to the value `thing`. If `thing` is omitted, the state is be set to `undefined`. Whatever the state ends up being set to is returned.
+The state is set to the value of `thing`. If `thing` is omitted, the state is set to `undefined`. Whatever the state ends up being set to is returned.
 
 
 # install
