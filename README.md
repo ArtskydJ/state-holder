@@ -2,6 +2,8 @@ state-holder
 ============
 
 [![Build Status](https://travis-ci.org/ArtskydJ/state-holder.svg)](https://travis-ci.org/ArtskydJ/state-holder)
+[![Dependency Status](https://david-dm.org/artskydj/state-holder.svg)](https://david-dm.org/artskydj/state-holder)
+[![devDependency Status](https://david-dm.org/artskydj/state-holder/dev-status.svg)](https://david-dm.org/artskydj/state-holder#info=devDependencies)
 
 Basic getter and setter for arbitrary data
 
