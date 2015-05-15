@@ -19,7 +19,7 @@
     "url": "https://github.com/ArtskydJ/state-holder"
   },
   "devDependencies": {
-    "tape": "^3.5.0"
+    "tape": "^4.0.0"
   },
   "scripts": {
     "test": "tape test.js"
